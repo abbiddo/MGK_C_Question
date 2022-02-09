@@ -33,3 +33,13 @@
   https://codemate.kr/@abbiddo/C언어-문제은행-3일차-1 <br>
   
 </details>
+    
+<details>
+    <summary>3일차</summary>
+  
+#### 필수
+  https://codemate.kr/@abbiddo/C언어-문제은행-4일차 <br>
+#### 추가
+  https://codemate.kr/@abbiddo/C언어-문제은행-4일차-1 <br>
+  
+</details>
