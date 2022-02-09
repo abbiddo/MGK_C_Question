@@ -35,7 +35,7 @@
 </details>
     
 <details>
-    <summary>3일차</summary>
+    <summary>4일차</summary>
   
 #### 필수
   https://codemate.kr/@abbiddo/C언어-문제은행-4일차 <br>
