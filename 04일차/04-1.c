@@ -1,21 +1,10 @@
 #include <stdio.h>
-int main() {
-    int a[5],i,max=0,n,num,re;
-    
-    for (i=0;i<5;i++) {
-    	scanf("%d",&a[i]);
-    	n=0;
-    	num=a[i];
-    	
-    	while(num){
-    		n+=(num%10);
-    		num/=10;
-    	}
-    	if (max<n) {
-    		max=n;
-    		re=a[i];
-		}
-	}
-	
-    printf("%d",re);
+int fibo(int n){
+	if (n<3) return 1;
+	return fibo(n-2)+fibo(n-1);
+}
+int main(){
+	int n;
+	scanf("%d",&n);
+	printf("%d",fibo(n));
 }
