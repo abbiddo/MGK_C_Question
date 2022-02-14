@@ -54,3 +54,13 @@
   https://codemate.kr/@abbiddo/C언어-문제은행-5일차-2 <br>
   
 </details>
+
+<details>
+    <summary>6일차</summary>
+  
+#### 필수
+  https://codemate.kr/@abbiddo/C언어-문제은행-6일차 <br>
+#### 추가
+  https://codemate.kr/@abbiddo/C언어-문제은행-6일차-1 <br>
+  
+</details>
