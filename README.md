@@ -64,3 +64,15 @@
   https://codemate.kr/@abbiddo/C언어-문제은행-6일차-1 <br>
   
 </details>
+    
+
+<details>
+    <summary>7일차</summary>
+  
+#### 필수
+  https://codemate.kr/@abbiddo/C언어-문제은행-7일차 <br>
+#### 추가
+  https://codemate.kr/@abbiddo/C언어-문제은행-7일차-1 <br>
+  https://codemate.kr/@abbiddo/C언어-문제은행-7일차-2 <br>
+  
+</details>
