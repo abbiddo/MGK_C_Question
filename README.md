@@ -124,3 +124,14 @@
 #### 추가
     
 </details>
+    
+<details>
+    <summary>13일차</summary>
+  
+#### 필수
+  https://codemate.kr/@abbiddo/C언어-문제은행-13일차 <br>
+#### 추가
+  https://codemate.kr/@abbiddo/C언어-문제은행-13일차-1 <br>
+  https://codemate.kr/@abbiddo/C언어-문제은행-13일차-2 <br>
+  
+</details>
